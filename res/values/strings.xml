@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Androsi</string>
+    <string name="p1">Blue</string>
+    <string name="p2">Red</string>
+    <string name="settings_label">Settings...</string>
+    <string name="show_hints">Show allowed positions</string>
+    <string name="settings_shortcut">s</string>
+    <string name="restart_label">Start a new game</string>
+    <string name="restart_shortcut">r</string>
+    <string name="show_hints_description">If is selected, all possible positions for the
+        active player are shown</string>
+    <string name="confirm_title">New Game</string>
+    <string name="yes_caption">Yes</string>
+    <string name="no_caption">No</string>
+    <string name="new_game_msg">Are you sure you want to start a new game?</string>
+    <string name="game_finished">The winner is player %s. Do you want to start again?</string>
+    <string name="is_droid_opponent">Play against droid?</string>
+    <string name="is_droid_opponent_description">Turn it on to play against Android. Turn it off to play against Human.</string>
+
+</resources>

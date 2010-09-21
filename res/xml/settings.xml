@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  <CheckBoxPreference
+  	android:key="show_allowed_positions"
+  	android:title="@string/show_hints"
+  	android:summary="@string/show_hints_description"
+  	android:defaultValue="true"/>
+  <CheckBoxPreference
+  	android:key="is_droid_opponent"
+  	android:title="@string/is_droid_opponent"
+  	android:summary="@string/is_droid_opponent_description"
+  	android:defaultValue="true"/>
+  <ListPreference
+  	
+  	android:entries="@array/levels"
+  />	
+</PreferenceScreen>
