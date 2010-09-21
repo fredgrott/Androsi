@@ -1,11 +1,7 @@
-![AndParty](http://github.com/shareme/AndParty/raw/master/slides/andparty.png)
 
 # Project Name
 
-AndParty, just a sample splash screen using a Handler as part of a FSM. The iphone
-handsets line-up behind the android and than the splash screen transforms
-to a screen displaying the MobileBytes logo.
-
+Androsi
 
 # Project Lead
 
@@ -34,12 +30,7 @@ The project is licensed under Apache License 2 and the text can be found at:
 
 # Usage
 
-Basically download the source to use. Apks for device use can be downloaded
-via scanning QR codes:
-[AndParty.apk via qr](http://github.com/downloads/shareme/AndParty/AndParty.apk/qr_code)
 
-via http:
-[AndParty.apk via http](http://github.com/downloads/shareme/AndParty/AndParty.apk)
 
 
 # Credits
